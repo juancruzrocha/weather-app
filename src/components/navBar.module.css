@@ -1,0 +1,28 @@
+.barra {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color:rgb(43, 41, 37) ;
+    height: 110px;
+    padding-top: 20px;
+    border: black 2px solid;
+    
+}
+
+.img {
+    height: 50px;
+    width: 50px;
+}
+
+.title {
+    color: rgb(26, 66, 126);
+    padding-left: 25px;
+}
+
+
+.about {
+    padding: 30px;
+    color: rgb(26, 66, 126);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
