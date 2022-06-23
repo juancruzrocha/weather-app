@@ -1,0 +1,30 @@
+
+.contenedor {
+    width: 390px ;
+    color:rgb(114, 94, 215);
+    background-color: rgba(229, 217, 224, 0.946);
+    border: rgba(0, 0, 0, 0.356) solid 2px;
+    border-radius: 11px;
+    margin:  50px;
+    padding:10px;  
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.infoCont {
+    display: flex;
+    flex-direction: row ;
+    padding: 10px;
+    justify-content:space-around;
+}
+
+.img {
+    background-color: rgba(230, 186, 212, 0.4);
+    border-radius: 25%;
+    height: 150px;
+    width: 150px;
+    margin-left: 120px;
+}
+
+
+
